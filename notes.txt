@@ -1,1 +1,2 @@
 Day 1: Learning Git step by step
+Day 2: Understanding commits and staging.
